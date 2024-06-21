@@ -1,0 +1,101 @@
+[33mcommit 6cdc1cc178af52ccd47a8903a7a412019ece5695[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mdev[m[33m)[m
+Author: Altair de souza <dev01@preparaenfermagem.com.br>
+Date:   Wed May 22 17:54:11 2024 -0300
+
+    A lógica para resetar a senha do usuário está pronta. Agora falta configurar o email e permitir o envio por terceiros
+
+[33mcommit 184cab403663e9289f5dd23857bbc117b0a64bc5[m[33m ([m[1;31morigin/dev[m[33m)[m
+Author: Altair de souza <dev01@preparaenfermagem.com.br>
+Date:   Tue May 21 17:49:37 2024 -0300
+
+    A autenticação de login e registro está funcionando. Agora vou fazer o 'esqueci minha senha
+
+[33mcommit 1dd54ea27fb3447aeaf73630f0473234ad19c5db[m
+Author: Altair de souza <dev01@preparaenfermagem.com.br>
+Date:   Mon May 20 17:58:06 2024 -0300
+
+    a autenticação com passport esta criada, ainda preciso fazer mais alguns testes no postman
+
+[33mcommit 7d9073c7315182b0db16dd3f4a5db8663f0969cb[m[33m ([m[1;31mall/dev[m[33m)[m
+Author: Altair de souza <dev01@preparaenfermagem.com.br>
+Date:   Mon May 20 10:40:45 2024 -0300
+
+    Foi configurado esse git para enviar alterações para dois repositórios remotos simultaneamente
+
+[33mcommit 589e1d9e5b775d9b35d9440ffb2e5606b875a4f7[m
+Author: Altair de souza <dev01@preparaenfermagem.com.br>
+Date:   Thu May 16 17:35:33 2024 -0300
+
+    Estou fazendo a autenticação com o pacote do laravel passport
+
+[33mcommit 770d378db3ea8d7bb74bea176d2e6378989f3f6e[m
+Author: Altair de souza <dev01@preparaenfermagem.com.br>
+Date:   Wed May 15 17:45:06 2024 -0300
+
+    Foi feito refatoramento em algumas rotas, conforme as solicitações do front
+
+[33mcommit 1930c429767a2491421a160e4612dc179fa07efa[m
+Author: Altair de souza <dev01@preparaenfermagem.com.br>
+Date:   Tue May 14 17:28:36 2024 -0300
+
+    Foi finalizado a logica do gabarito, agora estou fazendo a logica da quantidade de erros e acertos para colocar na estatística
+
+[33mcommit f5ebd1ae195f8acec4c39da4470aae2636558353[m
+Author: Altair de souza <dev01@preparaenfermagem.com.br>
+Date:   Mon May 13 17:38:05 2024 -0300
+
+    Todos os testes na rota 'comentario-aluno' deram certo. Estou refatorando as rotas e depois as colocarei em grupos
+
+[33mcommit aca78aa0837fb60b0f49ffed37d3973e33e87732[m
+Author: Altair de souza <dev01@preparaenfermagem.com.br>
+Date:   Fri May 10 17:32:19 2024 -0300
+
+    foi criado duas rotas novas, a primeira retorna a resposta e segunda retorna os comentarios dos alunos na questão
+
+[33mcommit 496a07c3811077a1cf2326e82431d5a69f134f17[m
+Author: Altair de souza <dev01@preparaenfermagem.com.br>
+Date:   Thu May 9 17:16:03 2024 -0300
+
+    A rota palavra-chave está concluída. Agora estou terminando a lógica da resposta e realizando os testes no Postman
+
+[33mcommit bb2b0ac9d01220f103ff86b485a98c2a86977125[m
+Author: Altair de souza <dev01@preparaenfermagem.com.br>
+Date:   Wed May 8 17:45:51 2024 -0300
+
+    Estou refatorando a rota palavra-chave, falta fazer alguns testes. Amanhã irei refatorar as demais rotas.
+
+[33mcommit a510150c83a7c671be05b66382172bb9ed75ad25[m
+Author: Altair de souza <dev01@preparaenfermagem.com.br>
+Date:   Tue May 7 17:54:26 2024 -0300
+
+    estou criando novas rotas post com palavra-chave
+
+[33mcommit ef29115d1909d114044af13899c976e1d40633bb[m
+Author: Altair de souza <dev01@preparaenfermagem.com.br>
+Date:   Thu May 2 17:56:49 2024 -0300
+
+    Novas rotas estão sendo adicionadas conforme as demandas do front(thomas)
+
+[33mcommit fa0235b2fdaf087357f03b1521e920d24e3426d8[m
+Author: Altair de souza <dev01@preparaenfermagem.com.br>
+Date:   Tue Apr 30 17:58:40 2024 -0300
+
+    foi feito uma nova configurações no cors, algumas rotas post nao estavam funcionando
+
+[33mcommit 4ed46993dbc62ae896207dddda0974d170641fcc[m
+Author: Altair de souza <dev01@preparaenfermagem.com.br>
+Date:   Mon Apr 29 17:12:38 2024 -0300
+
+    Foram criadas novas rotas, incluindo a pesquisa por número no livro, bem como algumas rotas de teste solicitadas pelo Thomas.
+
+[33mcommit 39e2df58fda1bbac2d74137577b46e778538a224[m[33m ([m[1;32mmain[m[33m)[m
+Author: Altair de souza <dev01@preparaenfermagem.com.br>
+Date:   Fri Apr 26 14:57:21 2024 -0300
+
+    aplicação em laravel, com as rotas api já criada
+
+[33mcommit 7314934bde2804937b73de6b3fbebe1c4498c805[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/PREP-1-back-montar-estrutura-da-aplicaçã[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Gedalias Valentim <gedalias@gmail.com>
+Date:   Thu Apr 18 20:18:18 2024 +0000
+
+    Initial commit
